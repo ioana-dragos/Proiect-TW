@@ -20,7 +20,7 @@ Administratorul va putea să adauge, să modifice și să șteargă exerciții �
 pentru quiz-uri, împreună cu răspunsurile corecte și explicațiile. Acesta va putea
 să consulte lista utilizatorilor și să gestioneze conturile acestora.
 
-## 2. Prioritizarea cerințelor
+## Prioritizarea cerințelor
 
 Funcționalitățile obligatorii, cu prioritate ridicată, sunt autentificarea, rezolvarea
 exercițiilor și a quiz-urilor, afișarea rezultatelor și a feedbackului, organizarea
